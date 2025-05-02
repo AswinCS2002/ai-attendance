@@ -90,6 +90,8 @@ All logs are stored in an Excel file and automatically uploaded to a linked Goog
 
    Mobile App integration
 
+⚠️ Warning: This project requires a Google service account key. Never upload your .json key file to GitHub. Use .gitignore to exclude it and use environment variables to access credentials securely.
+
 
 ## 📸 Screenshots
 
