@@ -34,7 +34,7 @@ A smart real-time Python-based system that performs face recognition to mark att
 1. Clone the repository or download the `.zip`:
  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/AswinCS2002/ai_attendance.git
    cd YOUR_REPO_NAME
 
 2. Install dependencies:
