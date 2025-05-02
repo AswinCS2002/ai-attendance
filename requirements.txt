@@ -1,0 +1,26 @@
+Python libraries Required:
+
+Step-by-Step Installation:
+
+   pip install opencv-python
+   pip install opencv-python-headless
+   pip install picamera2
+   pip install numpy
+   pip install pyttsx3
+   pip install dlib  
+   pip install imutils
+   pip install openpyxl
+   pip install google-api-python-client
+   pip install scipy
+   pip install opencv-python mediapipe numpy Pillow
+
+Additional setup for picamera2:
+
+Make sure your Raspberry Pi is running the latest firmware and OS updates:
+
+   sudo apt update
+   sudo apt upgrade
+
+Then, install the required system dependencies for picamera2:
+
+   sudo apt install python3-picamera2

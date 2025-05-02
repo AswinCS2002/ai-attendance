@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "mlm-attendance-454216",
+  "private_key_id": "8388a9a0e101d93d50288c57ee9ef69c897f6236",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDKw+8/pg6YyEUY\nzgeIIhe8VaONPvUfwnG2+GlnaBc9UvxA3+x5/Rys5YausXRXZL5lbQffkFDBQZnb\nHwzhfHFnIR40ewYz3ifZBYo/xuWjraA+j6PUgmiGDxglGez5D2/PvW6HnHvrejgJ\nrbNIeaKtnSgqr/KnkgYAyVDVj4ruIaNXybLDbQEasHbSJrEqboILnh/EDalSKXGu\nYBBXzLbQxNhRZGvp2Cav2xlD2ZU3IQqVNRTPCcB52TtEWp1cPhLHoSIZB1Mkb91W\nCDgAlFyOd1HgBqkeVgAUyliaPcwBs4IKrRcWeliwTPjg8AwLe9bvyPnWHoBQtmw4\nFjJ5gIb/AgMBAAECggEABYYJDNXTm4IHTMQ5SMNlnCHio7OLH+q/G/nmaXrO0bkT\n2fK6vbtgIK3vsgMNOP0rqRZI5LMN94DaEM9c4mOfsHZdzjO5mP4e+09XtcmF1LgF\nvUS06vmhjP6WlC4Bn00ilVCM6M6EQpsUbH06Bq8FRu97SQUt3IVdv7qohq74STeX\nOSujvXKi7F0ljotT+bf8BMm5zPnkNpHajvBWNgoUn27dmHrnuO17cIndyplqbLIu\nZwrC1nuVLY3O7mTKCDGRaC7sSy7BT9RxMyoPNW/y2gB2hLQ+MW/0totahkXdb5Cw\n4LbMn18RbyHoh1ZezpWELvhfvMJVnHE1qWfbc26ZSQKBgQD3KTF3tC9PkVlOWtbQ\nyRv3RdiIukzNefxhmnRciM5dPnLnKlIaSKFQIydlh7WDNYwkTn/kglUhfCvIKJ49\niypA7BQlP2uhLPIo2yjPRxgLuC7WMujvocBNlnhLGxGqzFoGMJE0G9j1PIax8zi2\nsltosOsjw4miOZOuviYWHCD19QKBgQDSBEqaGCHr4AzFTgJnLHA3x+SnpfDpi0OL\nygte42QFBIA7TaClSONaW4pkCoZhDf3ytVQKdABCe6qfXZqrzmY3rhS+x2mRuAOv\nQ5L+VUw6DkV/HaLoLeKLj/LAvzwv9dSbCA1KHruGXf70aNPkVtdYQkAGYHduE90G\nfww22dS8owKBgGHW3a0sF7pgqECbNwQpSDfHX2MolHSWgHDGqp9izIYezW9y0lNz\nQuAtOlA3u4O4M8S/imMTsM1zkQVIBvQH3e8bRRJFm76Ow0GnF+2NkBg7jdbfClSp\n7C0Kjo30pja9dDmVCjXdfDIABrX0uROhYQv9VOewZRBhyHNY9Ey2T9ntAoGANPfS\nHPUzMPtsHSMkpgLmNptaxxGqJizyl0IZBhCRvFY7RTm555XviW2HBN5GsBnIT7t9\n+7jwC9SG3vTLusMusqJcJxXCQXdIrp57Z1v6ArZwvrOpz6cq+QoQLp7MvkfhHEy2\nlVgU8bmpQNljf7aLT34+CZ2w4XlvCGFoojjkV8MCgYAAw9SRb+30wPDL8keXHKxB\nwEYIP2GMJGwlOUo5SF2fMzesdtD6mg0H/ZWvUcxtKbs15UkmrgAMHIUWOcX8XeOt\nr/SBlNBtKENhY9HdCen3dpanlFX+Dcxt9WpfpXTw6S2P2KvNI80Xrk9V/vyTVNeR\n+SlhVAO5Nr7b390OiunQug==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mlm-service-account@mlm-attendance-454216.iam.gserviceaccount.com",
+  "client_id": "109746721050746955326",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mlm-service-account%40mlm-attendance-454216.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
